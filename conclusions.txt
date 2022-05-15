@@ -1,0 +1,8 @@
+Conclusions
+
+* During 10 day period from 10 February 2022 to 20th February 2022 there were 12,943 trips.
+
+* Grove St PATH is the most popular station for both START as well as END of a trip.
+
+* Least popular stations for START and END jorney differ and there is no common least used station.
+
